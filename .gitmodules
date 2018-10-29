@@ -1,0 +1,6 @@
+[submodule "power_quality_analyzer_f28379d"]
+	path = power_quality_analyzer_f28379d
+	url = https://github.com/redchenjs/power_quality_analyzer_f28379d
+[submodule "remote_monitor_f767zi"]
+	path = remote_monitor_f767zi
+	url = https://github.com/redchenjs/remote_monitor_f767zi
